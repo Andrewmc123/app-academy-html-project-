@@ -1,0 +1,102 @@
+body{ 
+    background-image: url("giphy.gif");
+    background-size: cover;
+    background-color:white; 
+     text-align: center; 
+     overflow: hidden; 
+
+   
+   
+}
+
+.h1{
+    width:-3px; 
+    font-size: 70px;
+    color: silver; 
+    display: flex; 
+    justify-content: center;
+    margin-left: 620px;  
+    margin-top:400px;
+    text-shadow: 5px 5px black;
+    
+}
+
+.btn {
+    width: 150px;
+    display:flex; 
+    justify-content:center; 
+    padding: 15px 25px grey; /* Adjust padding for better button appearance */
+    background: silver;
+    border: none; 
+    margin: 100px 10px; /* Adjust the margin as needed */
+    font-family: fantasy;
+    margin-right:auto;
+    margin-left: auto; 
+    font-size: 30px; 
+    border:2px dotted silver; 
+    text-shadow: px 5px black;
+}
+
+
+
+.underline{
+    border-bottom: 4px solid white;
+    color:Brown; 
+    display:flex; 
+    justify-content:center; 
+    margin-right:auto; 
+    margin-left:9px;  
+    margin-top:auto;
+
+
+}
+#spacex{
+
+    width:200px; 
+    display:flex; 
+    justify-content:center; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: -18px;
+ 
+  
+    
+  
+
+}
+
+.great{
+    font-family: cursive ;
+    color: brown ;
+    margin-top: 20px;
+    margin-right: -25px; 
+    font-size:25px
+    
+    
+    
+}
+
+#terms{
+    
+     
+    padding: 10px 0 40px 0; 
+    margin-left:auto; 
+    margin-right:auto; 
+    margin-bottom:0px; 
+  
+   
+
+}
+
+.tpar{
+   
+    color: brown ; 
+    margin-top: -50px; 
+    margin-left: 1550px; 
+    font-family: cursive ;
+    
+}
+
+
+
+
